@@ -10,6 +10,7 @@ Congestive heart failure (CHF), a progressive and complex syndrome caused by ven
   3. The proposed approach is implemented following the centralized learning and the federated learning framework. Based on extensive experiments on the publicly available datasets with mild CHF patients, we show that it is feasible to train the proposed CHF detection model distributively over multiple clients in a privacy-respecting manner.
 
 The dataset utilized in this paper can be found at:
+
 CHF: https://physionet.org/content/chf2db/1.0.0/
 
 NSR: https://physionet.org/content/nsr2db/1.0.0/
