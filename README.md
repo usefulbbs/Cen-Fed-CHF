@@ -8,3 +8,9 @@ Congestive heart failure (CHF), a progressive and complex syndrome caused by ven
   2. Considering the limited number of samples in each institution, we leverage the pruned variant of UNet++ with grouped convolution to adjust the model complexity and improve the performance. Based on the grouped convolution, both the number of parameters and the computational cost is significantly reduced. The improved UNet++ has achieved state-of-theart accuracy of 89.82% on two publicly available datasets with mild CHF patients.
   
   3. The proposed approach is implemented following the centralized learning and the federated learning framework. Based on extensive experiments on the publicly available datasets with mild CHF patients, we show that it is feasible to train the proposed CHF detection model distributively over multiple clients in a privacy-respecting manner.
+
+The dataset utilized in this paper can be found at:
+CHF: https://physionet.org/content/chf2db/1.0.0/
+NSR: https://physionet.org/content/nsr2db/1.0.0/
+AF: https://physionet.org/content/ltafdb/1.0.0/
+Apnea: https://physionet.org/content/apnea-ecg/1.0.0/
