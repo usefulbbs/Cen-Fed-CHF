@@ -11,6 +11,9 @@ Congestive heart failure (CHF), a progressive and complex syndrome caused by ven
 
 The dataset utilized in this paper can be found at:
 CHF: https://physionet.org/content/chf2db/1.0.0/
+
 NSR: https://physionet.org/content/nsr2db/1.0.0/
+
 AF: https://physionet.org/content/ltafdb/1.0.0/
+
 Apnea: https://physionet.org/content/apnea-ecg/1.0.0/
